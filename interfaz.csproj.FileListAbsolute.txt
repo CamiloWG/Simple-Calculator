@@ -1,0 +1,10 @@
+D:\Checho\Proyectos C#\Interfaz\interfaz\bin\Debug\interfaz.exe.config
+D:\Checho\Proyectos C#\Interfaz\interfaz\bin\Debug\interfaz.exe
+D:\Checho\Proyectos C#\Interfaz\interfaz\bin\Debug\interfaz.pdb
+D:\Checho\Proyectos C#\Interfaz\interfaz\obj\Debug\interfaz.csprojAssemblyReference.cache
+D:\Checho\Proyectos C#\Interfaz\interfaz\obj\Debug\interfaz.Form1.resources
+D:\Checho\Proyectos C#\Interfaz\interfaz\obj\Debug\interfaz.Properties.Resources.resources
+D:\Checho\Proyectos C#\Interfaz\interfaz\obj\Debug\interfaz.csproj.GenerateResource.cache
+D:\Checho\Proyectos C#\Interfaz\interfaz\obj\Debug\interfaz.csproj.CoreCompileInputs.cache
+D:\Checho\Proyectos C#\Interfaz\interfaz\obj\Debug\interfaz.exe
+D:\Checho\Proyectos C#\Interfaz\interfaz\obj\Debug\interfaz.pdb
